@@ -1,0 +1,29 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+   
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    background-color: black;
+}
+
+.letfpart {
+    height: 100vh;
+    
+    border: 1px solid white;
+}
+.rightpart{
+    border:1px solid white;
+}
+.usercircle{
+    height: 40px;
+    width: 40px;
+    border: 1px solid white;
+    border-radius: 50%;
+}
