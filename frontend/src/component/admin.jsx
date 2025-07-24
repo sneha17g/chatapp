@@ -1,6 +1,6 @@
-const Admin = ()=>{
+const Adminpanel = ()=>{
     return (<>
     </>)
 }
 
-export default Admin;
+export default Adminpanel;
